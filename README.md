@@ -1,1 +1,1 @@
-Project setup: Git Elementor
+Project setup: Git Elementor.
